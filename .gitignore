@@ -1,0 +1,26 @@
+# Environment Variables & Secrets (CRITICAL)
+.env
+.env.*
+*.env
+
+# Python & Virtual Environments
+venv/
+env/
+ENV/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Database & Vector Store Data
+*.db
+*.sqlite3
+data/
+persisted_parent_chunks/
+
+# IDE & OS Files
+.vscode/
+.idea/
+.DS_Store
+*.log
