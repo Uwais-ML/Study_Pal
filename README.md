@@ -1,4 +1,4 @@
-# 🧠 Adaptive Agentic RAG & Personalized Study Engine
+# 🧠 Study Pal: Adaptive Agentic RAG & Personalized Study Engine
 
 [![FastAPI](https://img.shields.io/badge/Backend-FastAPI-009688.svg?style=flat&logo=fastapi)](https://fastapi.tiangolo.com/)
 [![LangChain](https://img.shields.io/badge/Orchestration-LangChain-blue.svg)](https://www.langchain.com/)
@@ -270,8 +270,8 @@ Advance_RAG_SYSTEM/
 ### 2. Local Installation
 
 ```bash
-git clone https://github.com/your-username/Advance_RAG_SYSTEM.git
-cd Advance_RAG_SYSTEM
+git clone https://github.com/Uwais-ML/Study_Pal.git
+cd Study_Pal
 
 python3 -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
